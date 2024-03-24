@@ -1,7 +1,8 @@
 @font-face {
-  font-family: "Chakra Petch";
-  src: url("css/fonts/some-font.eot");
-  src: url("css/fonts/some-font.woff") format("woff"),
-       url("css/fonts/some-font.otf") format("opentype"),
-       url("css/fonts/some-font.svg#filename") format("svg");
+    font-family: 'chakra_petchregular';
+    src: url('assets/fonts/chakrapetch-regular-webfont.woff2') format('woff2'),
+         url('assets/fonts/chakrapetch-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }

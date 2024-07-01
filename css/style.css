@@ -42,10 +42,10 @@ p {
 .button2 {
   background-color: #ff9955; 
   color: black; 
-  border: 4px solid #008CBA;
+  border: 4px solid #000000;
 }
 
 .button2:hover {
-  background-color: #008CBA;
+  background-color: #000000;
   color: white;
 }

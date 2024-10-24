@@ -1,2 +1,2 @@
 # dragonaero64.github.io
-This is the website of DragonAero!
+No longer used; moved to Neocities. The old website should redirect to Neocities.
